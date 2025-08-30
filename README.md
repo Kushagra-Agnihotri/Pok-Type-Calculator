@@ -19,7 +19,7 @@ A comprehensive Pokémon type effectiveness calculator that supports dual-type P
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/poketype-calculator.git
+git clone https://github.com/Kushagra-Agnihotri/poketype-calculator
 cd poketype-calculator
 pip install requests
 ```
